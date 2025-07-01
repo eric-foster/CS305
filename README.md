@@ -15,7 +15,7 @@ I increased layers of security by applying secure hashing for data integrity, re
 After refactoring the code, I verified the application’s functionality using unit tests and ensured no new vulnerabilities were introduced by re-running automated security scans. I also reviewed secure coding guidelines and tested edge cases to validate data input and output integrity. These steps helped ensure the application remained both secure and functional.
 
 ## Helpful Tools and Practices
-Some resources and practices I found helpful included the OWASP Top 10, SHA-256 for hashing, and secure API design patterns. Additionally, automated tools like Maven Dependency-Check helped identify outdated or risky dependencies. These will be valuable in future security-related development tasks.
+Some resources and practices I found helpful included the OWASP Top 10, SHA-256 for hashing, and secure API design patterns. Additionally, automated tools like OWASP Dependency-Check helped identify outdated or risky dependencies. These will be valuable in future security-related development tasks.
 
 ## Showcasing Skills to Employers
 This assignment gave me a strong example of secure software development and vulnerability assessment. I would show future employers my vulnerability assessment report, the refactored secure codebase, and my ability to use security tools and practices to improve real-world applications. It demonstrates my problem-solving skills, attention to detail, and readiness to handle secure software projects in professional environments.
